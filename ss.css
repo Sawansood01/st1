@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #bcc3c7 ;
+}
+.blogContainer{
+    background-color: #fff;
+    margin:3%;
+    padding: 3%;
+    
+}
+.dates{
+    text-transform: uppercase;
+    color: #75c0ed;
+    font-weight: 500;
+}
+.headings{
+    text-transform:capitalize;
+    color:#293d52;
+}
+.firstPara{
+    border-left: 4px solid grey;
+    padding-left:1%;
+}
